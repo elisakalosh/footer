@@ -1,0 +1,174 @@
+*{
+    padding: 0;
+    margin: 0;
+    background: rgb(76, 122, 122);
+}
+.par{
+    color: white;
+    margin-top: 25px;
+    margin-left: 100px;
+    font-size: 20px;
+}
+/* styling the contact side  */
+.con{
+    margin-left: 100px;
+    margin-top: 25px;
+    font-size: 8px;
+    font-size: 15px;
+    /* end of styling the contact side  */
+}
+.bar{
+    background:rgb(61, 78, 78);
+    height: 30px;
+    width: 1300px;
+ border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.talk{
+    margin-top: 60px;
+    margin-left: 100px;
+    
+}
+/* styling the bar under the talk  */
+.bar2{
+    background: black;
+    height: 2px;
+    width: 140px;
+    margin-left: 0px;
+    margin-top: 2px;
+}
+.text{
+    list-style: none;
+    margin-top: 5px;
+    font-size: 15px;
+    color: white;
+    margin-top: 20px;
+}
+/* styling the words inside the talk to us  */
+  .initial{
+    margin-left: 100px;
+    margin-top: -55px;
+    color: white;
+  }
+  /* end of styling the words inside the talk to us */
+  .hello{
+    margin-left: 500px;
+    margin-top: -100px;
+  }
+  .bar3{
+    background: black;
+    height: 2px;
+    width: 140px;
+    margin-left: 0px;
+    margin-top: 2px;
+}
+
+.barname{
+    background: white;
+    height: 30px;
+    width: 140px;
+    margin-top: 7px;
+    margin-left: 400px;
+    border-radius: 10px;
+}
+.name{
+    margin-left: 10px;
+    margin-top: 20px;
+    text-align: center;
+    
+    
+    
+}
+.name p{
+    background: white;
+    height: 20px;
+    display: flex;
+    padding-top: 10px;
+    width: 140px;
+    justify-content: left;
+    padding-left: 10px;
+    align-items: baseline;
+    border-radius: 10px;
+    margin-left: -10px;
+    transition: 1s;
+    background: transparent;
+    border: 1px solid #0ef;
+    
+}
+.name p:hover{
+    color: #59788e;
+    background: #0ef;
+    box-shadow: 0 0 20px #0ef;
+}
+.email input{
+    background: white;
+    height: 20px;
+    display: flex;
+    padding-top: 10px;
+    width: 140px;
+    justify-content: left;
+    padding-left: 10px;
+    align-items: baseline;
+    border-radius: 10px;
+    margin-left: -10px;
+    transition: 1s;
+    background: transparent;
+    border: 1px solid #0ef;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+
+.email input:hover{
+    color: #59788e;
+    background: #0ef;
+    box-shadow: 0 0 20px #0ef;}
+
+.tel p{
+    background: white;
+    height: 20px;
+    display: flex;
+    padding-top: 10px;
+    width: 140px;
+    justify-content: left;
+    padding-left: 10px;
+    align-items: baseline;
+    border-radius: 10px;
+    margin-left: -10px;
+    transition: 1s;
+    background: transparent;
+    border: 1px solid #0ef;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+
+.tel p:hover{
+    color: #59788e;
+    background: #0ef;
+    box-shadow: 0 0 20px #0ef;}
+
+.keep{
+    margin-left: 400px;
+    margin-top: -160px;
+  }
+  .bar4{
+    background: black;
+    height: 2px;
+    width: 190px;
+    margin-left: 0px;
+    margin-top: 2px;
+  }
+  .handle{
+    margin-left:  5px;
+    margin-top: 10px;
+    color: white;
+  }
+  .fb{
+    margin-bottom: 30px;
+  }
+  .ig{
+    margin-bottom: 30px;
+  }
+.linked{
+    margin-bottom: 40px;
+}
